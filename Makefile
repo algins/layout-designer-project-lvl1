@@ -6,4 +6,4 @@ lint:
 	npx htmlhint ./src/*.html
 
 deploy:
-	npx surge ./src/
+	npx surge ./src/ --domain algins-cognitive-biases.surge.sh
