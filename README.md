@@ -10,3 +10,5 @@ $ git clone https://github.com/algins/layout-designer-project-lvl1.git
 $ cd layout-designer-project-lvl1
 $ make install
 ```
+### Demo:
+https://algins-cognitive-biases.surge.sh
